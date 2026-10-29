@@ -1,0 +1,25 @@
+{
+  "paper": "Cell-Level Feature-Preserving Imputation for Battery Remaining Useful Life Prediction",
+  "paper_revision": "2026-10-27 camera-ready revision",
+  "description": "Frozen derived results from the reported runs. Source export IDs are archival identifiers, not required external paths.",
+  "files": [
+    {"file":"table1_single_initialization.csv","sha256":"e632160e1f3142fcecbdaaeb8a265559556ebffeec84d86871ef246986309e14","source_export":"paper_tables_advisor_joint_20261018_v1/compact_single_init_mape.csv"},
+    {"file":"table2_three_initializations.csv","sha256":"0bdc83cd8c05bb2aa7d3a5ff09ba9212838ce438b528f28dfbea4a242099a06d","source_export":"strong_reference_three_init_summary_20261018_v1/seven_method_rows_ridge.csv"},
+    {"file":"table3_conditions_core.csv","sha256":"d9ecca5a00d1c06d2c5698fb25845d6938234a4d5fd9fd9439b3612184f68c06","source_export":"three_init_conditions_mechanism_tables_20261018_v1/conditions_three_init_compact.csv"},
+    {"file":"table3_conditions_references.csv","sha256":"e85c7f2d7e5a6002916fc768c0c884ac646e8ec3b34c6b43c2e18b838519e4b7","source_export":"strong_reference_three_init_summary_20261018_v1/two_reference_conditions_ridge.csv"},
+    {"file":"table4_hust_features.csv","sha256":"5814c21390a42178e37c6c809649cd25875ad3c78c02139a3eadd981d90322df","source_export":"three_init_conditions_mechanism_tables_20261018_v1/hust_mechanism_three_init.csv"},
+    {"file":"validation_weight_sensitivity.csv","sha256":"e740bf53aa748698f91b380f8715b2fda16e5e17783ceb350f841cb9f3cd3cf1","source_export":"saits_weight_sensitivity_summary_20261018_v1/weight_sensitivity_all.csv"},
+    {"file":"validation_reference_grid_hust.csv","sha256":"d409f376d55a53f94724193a316956abca91bab958ac361f390aa187362d9d26","source_export":"backend_grid_saits_whole800_original_val_hust_20261018_v1/selected.csv"},
+    {"file":"validation_reference_grid_xjtu.csv","sha256":"f30e774fe4a292d0be7772c4a007d5720d1600d71c50d816b2cdf01d40ea8820","source_export":"backend_grid_saits_whole800_original_val_xjtu_20261018_v1/selected.csv"},
+    {"file":"feature_diagnostics_summary.csv","sha256":"f37443abe019e8fb3029964ef08e6ada4ed6bdc86502298b58d6253bd2d448dd","source_export":"three_init_saved_feature_point_20261018_v1/feature_point_mean_sd.csv"},
+    {"file":"feature_diagnostics_by_initialization.csv","sha256":"b859638dfd5430f9abec43af2332d83585591bdc9d069b66b8593b02b90876c7","source_export":"three_init_saved_feature_point_20261018_v1/feature_point_per_seed.csv"},
+    {"file":"paired_cells.csv","sha256":"62b830d767a706655dc3375358950ca4cddf9ddf4ca97510871b4a3553a97757","source_export":"three_initialization_paired_evidence_20261018_v2/paired_cells.csv"},
+    {"file":"paired_summary.csv","sha256":"413da6f4d67ee8bf52caee2620ba4850941254c0790f45ea4b46940a61b715dd","source_export":"three_initialization_paired_evidence_20261018_v2/paired_summary.csv"},
+    {"file":"paired_by_initialization.csv","sha256":"97d17465a3e9bb3de2cee88e2874b7108657c990b9b89286be3dc21464f05b86","source_export":"three_initialization_paired_evidence_20261018_v2/paired_per_initialization.csv"},
+    {"file":"validation_selection_stability.csv","sha256":"d465227d09dce89ad92238cfcbd9efdc4a3e3986cfebb0681c351734f256e208","source_export":"validation_selection_stability_20261018_v1/selection_stability_summary.csv"},
+    {"file":"cell_errors_saits.csv","sha256":"5a443da7656b4cf14af4db4487a6f5832a20a97665d0446ff327c455fdc90181","source_export":"saits_repeat_test_summary_20261018_v1/cell_errors_by_initialization.csv"},
+    {"file":"cell_errors_joint.csv","sha256":"cf6f86224ab689ea42d13e70071b138e243b17794dac13a870f734577f916026","source_export":"joint_saits_three_init_summary_20261018_v1/all_outputs_cell_missing_average_by_init.csv"},
+    {"file":"cell_errors_references.csv","sha256":"bc0941f3c7d9b6b040319f375daeb654d5c843ff170e9579feabde048af07c35","source_export":"strong_reference_three_init_summary_20261018_v1/cell_missing_average_by_init.csv"},
+    {"file":"paired_source_errors.csv","sha256":"581bb5641060adca1b25f1ef5b9e475d4da591078a9e02c9a227c5ceb38dbb94","source_export":"three_initialization_paired_evidence_20261018_v2/source_cell_conditions_by_initialization.csv"}
+  ]
+}

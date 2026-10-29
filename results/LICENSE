@@ -1,0 +1,19 @@
+Derived result data copyright 2026 Yifan Li, Yulong Ding, Shuanghua Yang,
+and Lili Yang.
+
+The result data in this directory are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+License: https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+These are model-generated predictions, derived errors, and summaries from the
+present study. They are based on the following CC BY 4.0 datasets:
+
+HUST: Ye Yuan, Guijun Ma, Songpei Xu; https://doi.org/10.17632/nsc7hnsg4s.2
+XJTU: Fujin Wang; https://doi.org/10.5281/zenodo.10963339
+
+Please acknowledge these source datasets and the present paper. See
+../docs/results.md for the transformations applied to the source data.
+No endorsement by the original dataset authors is implied.
+
+The software licenses governing the code are separate from this data license.

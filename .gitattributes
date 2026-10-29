@@ -1,0 +1,7 @@
+# Normalize source and documentation while preserving frozen result bytes.
+* text=auto eol=lf
+results/*.csv -text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary

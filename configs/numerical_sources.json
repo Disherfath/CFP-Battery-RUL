@@ -1,0 +1,192 @@
+{
+  "schema": "paper-code-provenance-v1",
+  "copied_modules": [
+    {
+      "public_path": "src/batt_rul/brits_cycle_imputer.py",
+      "experiment_path": "src/batt_rul/brits_cycle_imputer.py",
+      "experiment_sha256": "0c37fe6553cc200e243641367cef2c37de1df51ab6483034802b3b6265022fc8",
+      "identical_bytes": true
+    },
+    {
+      "public_path": "src/batt_rul/joint_rul_head.py",
+      "experiment_path": "src/batt_rul/joint_rul_head.py",
+      "experiment_sha256": "ddb81c990c9d118fd54bbb65c8d4febe39380b04b0dee5aa54c52cab8c0392d5",
+      "identical_bytes": true
+    },
+    {
+      "public_path": "src/batt_rul/life_sensitive_features.py",
+      "experiment_path": "src/batt_rul/life_sensitive_features.py",
+      "experiment_sha256": "f74916d6d299e00cbc11048150b5fdbf6ff69fe482e0fe30dc466c8b84d7a091",
+      "identical_bytes": true
+    },
+    {
+      "public_path": "src/batt_rul/missingness.py",
+      "experiment_path": "src/batt_rul/missingness.py",
+      "experiment_sha256": "ef219f9f1d2c77852ab55d5919ee5b5d1e035663e5512fb8585014a25af65a98",
+      "identical_bytes": true
+    },
+    {
+      "public_path": "src/batt_rul/observed_cycle_completion.py",
+      "experiment_path": "src/batt_rul/observed_cycle_completion.py",
+      "experiment_sha256": "3a42f70bd7c45b5d9c0ae2dabb03d7155985be7c51dca3e3ec31ec28915464fe",
+      "identical_bytes": true
+    },
+    {
+      "public_path": "src/batt_rul/observed_only_features.py",
+      "experiment_path": "src/batt_rul/observed_only_features.py",
+      "experiment_sha256": "440f6ef8094fbe2bf59d359a1e9ffd4fd072f3be9f0e35579a36e12421cd6098",
+      "identical_bytes": true
+    },
+    {
+      "public_path": "src/batt_rul/reference_data.py",
+      "experiment_path": "src/batt_rul/reference_data.py",
+      "experiment_sha256": "4eeb81d2c851d4b15fa6b07140fda4581923c11157f51de11c96efdde7a4f7c4",
+      "identical_bytes": true
+    },
+    {
+      "public_path": "src/batt_rul/saits_task_adapter.py",
+      "experiment_path": "src/batt_rul/saits_task_adapter.py",
+      "experiment_sha256": "f43570055a93571c72bff682d7ac1555f67bf36d88c90f8a12c45be50379544e",
+      "identical_bytes": true
+    },
+    {
+      "public_path": "src/batt_rul/splits.py",
+      "experiment_path": "src/batt_rul/splits.py",
+      "experiment_sha256": "8220418ce07ecb7a1af0f4de250eb13b71f29801bb1fc19ebef1c79dcf46b822",
+      "identical_bytes": true
+    },
+    {
+      "public_path": "src/batt_rul/t1_cycle_adapter.py",
+      "experiment_path": "src/batt_rul/t1_cycle_adapter.py",
+      "experiment_sha256": "a391ac80ab9adb88f4879ff33d05ee2d54f91674a3f931cc9264a6e0ca77cb57",
+      "identical_bytes": false
+    },
+    {
+      "public_path": "src/batt_rul/t1_within_cycle_adapter.py",
+      "experiment_path": "src/batt_rul/t1_within_cycle_adapter.py",
+      "experiment_sha256": "4b2e584234082dd553daded083e5cb5f2ea452a015cacc853a2177a6f4eaa20e",
+      "identical_bytes": true
+    },
+    {
+      "public_path": "src/batt_rul/torch_data.py",
+      "experiment_path": "src/batt_rul/torch_data.py",
+      "experiment_sha256": "0ba94b42d38992a31713e5ef1dca41329d15a6ad65e899f091679ded43d95704",
+      "identical_bytes": true
+    },
+    {
+      "public_path": "src/batt_rul/__init__.py",
+      "experiment_path": "src/batt_rul/__init__.py",
+      "experiment_sha256": "6635ca3ad6f752b332764b6645f0f1d3c8551ce4003cfe59cf613828777460dc",
+      "identical_bytes": true
+    },
+    {
+      "public_path": "src/batt_rul/data/hust.py",
+      "experiment_path": "src/batt_rul/data/hust.py",
+      "experiment_sha256": "bf9190dc15275a0c5c079344af7f4ec4d6526381b28a3530b9f91e0c993ae40d",
+      "identical_bytes": true
+    },
+    {
+      "public_path": "src/batt_rul/data/xjtu.py",
+      "experiment_path": "src/batt_rul/data/xjtu.py",
+      "experiment_sha256": "5051324a1d5f3929e3f310690326fb427afd76f8dbf868aaf96209f1c0c3fe05",
+      "identical_bytes": true
+    },
+    {
+      "public_path": "src/batt_rul/data/__init__.py",
+      "experiment_path": "src/batt_rul/data/__init__.py",
+      "experiment_sha256": "4cf1dfa38bd5516314134759e84bd5f3ba0b0640b7b5cc9fd0c15aaed48b53bd",
+      "identical_bytes": true
+    }
+  ],
+  "extracted_modules": [
+    {
+      "public_path": "src/batt_rul/completion.py",
+      "sources": [
+        {
+          "path": "scripts/run_saits_full_pipeline_cv_20261005.py",
+          "sha256": "34f0c5b1d55e4cbee0682cb83445ad2dd567e89444b81f688e490d0b5837429b"
+        }
+      ]
+    },
+    {
+      "public_path": "src/batt_rul/protocol.py",
+      "sources": [
+        {
+          "path": "scripts/diagnose_reference_missingness_20261004.py",
+          "sha256": "b2f1620972fe4046234e9894a63855e6f0836487a372ee61b18cab40be51315d"
+        },
+        {
+          "path": "scripts/run_life_sensitive_brits_pilot_20261017.py",
+          "sha256": "d6ca625020f762867cecea3f0bdef0d1a4fd3dac208650414bc5ce11654935be"
+        },
+        {
+          "path": "scripts/run_saits_inner_pilot_20261005.py",
+          "sha256": "8e288836c724a9f8292b843b8b67be8a64035658c79dee53bc167593060a2466"
+        }
+      ]
+    },
+    {
+      "public_path": "src/batt_rul/saits_training.py",
+      "sources": [
+        {
+          "path": "scripts/saits_whole_cell_feature_pilot_20261018.py",
+          "sha256": "be5f6dbd30adcc6f9a4c1112e2568577a5c3d14d637e99ed9398e945a64a4cbf"
+        },
+        {
+          "path": "scripts/saits_repeatability_20261018.py",
+          "sha256": "a339aa5007bfacc60585c84ab5a02e2c7efd51da261e1dee3ed8a59e9b7e2afe"
+        }
+      ]
+    },
+    {
+      "public_path": "src/batt_rul/joint_training.py",
+      "sources": [
+        {
+          "path": "scripts/joint_saits_rul_baseline_20261018.py",
+          "sha256": "bd6460580296705325c3189ee5bc0cc054c31b354944028d03813cab48a9af40"
+        }
+      ]
+    },
+    {
+      "public_path": "src/batt_rul/brits_training.py",
+      "sources": [
+        {
+          "path": "scripts/run_life_sensitive_brits_pilot_20261017.py",
+          "sha256": "d6ca625020f762867cecea3f0bdef0d1a4fd3dac208650414bc5ce11654935be"
+        }
+      ]
+    },
+    {
+      "public_path": "src/batt_rul/t1_training.py",
+      "sources": [
+        {
+          "path": "scripts/run_t1_cycle_pilot_20261008.py",
+          "sha256": "8bdeb9bfcbac2c98601ee379eab24d5e1771c3742c2affc7d5b7a1a4bc9956bf"
+        },
+        {
+          "path": "scripts/t1_within_role_validation_20261017.py",
+          "sha256": "6d0aba23cf3457c5c0cdae02b105c17a552c14e4674cab566c37f51091479672"
+        }
+      ]
+    },
+    {
+      "public_path": "src/batt_rul/strong_training.py",
+      "sources": [
+        {
+          "path": "scripts/strong_reference_repeats_20261018.py",
+          "sha256": "98147b3035d2800616fc81214cc8c8b2307f54690fd57fe9e6f730af3b2c3bba"
+        }
+      ]
+    },
+    {
+      "public_path": "src/batt_rul/backends.py",
+      "sources": [
+        {
+          "path": "scripts/run_backend_grid_tuning_20261017.py",
+          "sha256": "45bd413d793f7912881b239dd8a78dcff0c34b195c1312b3619086ce7c374d1c"
+        }
+      ]
+    }
+  ],
+  "modifications": "The T1 default checkout path is repository-relative. Extracted functions retain their numerical bodies; historical module qualifications are replaced by local imports. paper_pipeline.py is new portable orchestration. This manifest is provenance, not a claim that a fresh full-grid rerun has completed."
+}

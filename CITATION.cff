@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite the paper below."
+type: software
+title: "CFP-Battery-RUL"
+version: 1.0.0
+repository-code: "https://github.com/Disherfath/CFP-Battery-RUL"
+url: "https://github.com/Disherfath/CFP-Battery-RUL"
+license: MIT
+authors:
+  - family-names: Li
+    given-names: Yifan
+    affiliation: "Shenzhen Key Laboratory of Safety and Security for Next Generation of Industrial Internet, Southern University of Science and Technology"
+  - family-names: Ding
+    given-names: Yulong
+    affiliation: "Nanfang College Guangzhou"
+  - family-names: Yang
+    given-names: Shuanghua
+    affiliation: "Nanfang College Guangzhou; Beijing Normal-Hong Kong Baptist University"
+  - family-names: Yang
+    given-names: Lili
+    affiliation: "Shenzhen Key Laboratory of Safety and Security for Next Generation of Industrial Internet, Southern University of Science and Technology"
+preferred-citation:
+  type: conference-paper
+  title: "Cell-Level Feature-Preserving Imputation for Battery Remaining Useful Life Prediction"
+  authors:
+    - family-names: Li
+      given-names: Yifan
+    - family-names: Ding
+      given-names: Yulong
+    - family-names: Yang
+      given-names: Shuanghua
+    - family-names: Yang
+      given-names: Lili
+  year: 2026
+  collection-title: "2026 IEEE the 7th International Conference on Computer, Big Data and Artificial Intelligence"
+  notes: "Accepted at Workshop 1. Proceedings DOI and page numbers are pending publication."
